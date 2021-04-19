@@ -26,7 +26,7 @@ x =['sunny' ,'cloudy', 'rainy', 'windy']
 y = np.random.randint(0, 200, 4)
 plt.bar(x, y) #棒グラフ
 
-x =np.arange(10)
+x =np.aMrange(10)
 y = np.random.randint(-10, 10, 10)
 plt.plot(x, y)
 plt.title('Result') #タイトル
